@@ -1,0 +1,12 @@
+.content {
+    flex-direction: row;
+}
+.icon {
+    width: 64px;
+    height: 64px;
+}
+Text {
+    width: 100px;
+    height: 64px;
+    size: 16;
+}
