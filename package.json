@@ -6,7 +6,7 @@
   "templateInfo": {
     "name": "taro-ui",
     "typescript": true,
-    "css": "none"
+    "css": "sass"
   },
   "scripts": {
     "build:weapp": "taro build --type weapp",
@@ -61,6 +61,7 @@
     "eslint-plugin-react": "^7.8.2",
     "eslint-plugin-react-hooks": "^1.6.1",
     "stylelint": "9.3.0",
-    "typescript": "^3.7.0"
+    "typescript": "^3.7.0",
+    "stylelint-scss": "^3.3.0"
   }
 }
